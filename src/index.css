@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.lando {
+  font-size: 3rem;
+  color: rgb(170, 46, 46);
+}
