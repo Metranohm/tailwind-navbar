@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Components/Navbar/Navbar.css'
+import Navbar from '/home/metranohm/code/projects/headwind/src/Components/Navbar/Navbar.jsx';
 
 class Navbar extends Component {
   render() {
